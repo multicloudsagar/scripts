@@ -1,0 +1,4 @@
+•	Subscription id - it will get from Azure portal
+•	Resource group - select resource group where storage account is created
+•	ou-distinguised-name - It will get from Active directory, right click on OU --> properties, it will show you value in drop-down
+•	Encryption - you can go ahead with AES256 considering it is more secure.
